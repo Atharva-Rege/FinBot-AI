@@ -21,7 +21,7 @@ def generate_output(question,api_key,model,temperature,max_tokens,system_prompt_
 
     response = chain.invoke({
         'input':question,
-        'system_prompt':'You are a {system_prompt_type} in a Financial Organization. Answer the question with the best of your knowledge. It is only from a knowledge perspective and will not contain any monetary risks.'
+        'system_prompt':f'You are a {system_prompt_type} in a Financial Organization. Answer the question with the best of your knowledge. It is only from a knowledge perspective and will not contain any monetary risks.'
     })
     return response
 
