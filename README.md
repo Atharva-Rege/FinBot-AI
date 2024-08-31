@@ -13,3 +13,8 @@ We use Streamlit framework to create a interacting Web-application.
 
 <img width="1432" alt="image" src="https://github.com/user-attachments/assets/3f4d44d6-08dd-47e4-9812-7671b6abf1a4">
 
+
+
+```
+streamlit run app-v2.py
+```
