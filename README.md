@@ -8,8 +8,7 @@ It is difficult to get good information regarding Finance instantly. Hence, we c
 
 ## Description
 
-This Chatbot application uses OpenAI's models GPT-4, GPT-4o and GPT-4-Turbo for retrieving information about the questions asked by the user, which is implemented using LangChain framework. 
-We use Streamlit framework to create a interacting Web-application. 
+This Chatbot application uses OpenAI's models GPT-4, GPT-4o and GPT-4-Turbo for retrieving information about the questions asked by the user, which is implemented using LangChain framework. We have allowed the users to adjust the temperature and maximum token values as per their discretion according to their application. We then implement a Streamlit framework to create a interacting Web-application. 
 
 <img width="1432" alt="image" src="https://github.com/user-attachments/assets/3f4d44d6-08dd-47e4-9812-7671b6abf1a4">
 
