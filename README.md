@@ -24,5 +24,5 @@ pip install requirements.txt
 
 Run the file using streamlit.
 ```
-streamlit run app-v2.py
+streamlit run app.py
 ```
